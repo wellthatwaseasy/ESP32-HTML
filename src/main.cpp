@@ -20,8 +20,8 @@
 AsyncWebServer server(80);
 
 // Set these to your desired credentials.
-const char *ssid = "NETGEAR35";
-const char *password = "freshsheep727";
+const char *ssid = "YourWIFIServer";
+const char *password = "WifiPassWord";
 
 FtpServer ftpSrv;   //set #define FTP_DEBUG in ESP8266FtpServer.h to see ftp verbose on serial
 
